@@ -1,11 +1,11 @@
 export const RESUME_PATH = 'https://drive.google.com/file/d/11mhd52rfA17Qn8hGFw5TyOSahCRDg84z/view?usp=sharing';
-export const GITHUB_USERNAME = 'codewithvk';
+export const GITHUB_USERNAME = 'JolimJostar';
 export const LINKEDIN_USERNAME = 'vivekkumarjaviya';
-export const FIRST_NAME = 'Vivekkumar';
-export const LAST_NAME = 'Javiya';
-export const ADDRESS = 'Rajkot, Gujrat'
-export const EMAIL_ID = 'work.vivekjaviya@gmail.com';
+export const FIRST_NAME = 'Yan';
+export const LAST_NAME = 'Kochkin';
+export const ADDRESS = 'Russia, Moscow'
+export const EMAIL_ID = 'yankochkinv@gmail.com';
 export const TWITTER_ID = 'Vk_javiya';
-export const FRONT_PAGE_NAME = 'Vivek Kumar';
-export const FRONT_PAGE_DESC = 'A Full-Stack Web Developer & Open Source Contributor.I like to build things for web and solving problems.'
+export const FRONT_PAGE_NAME = 'Yan Kochkin';
+export const FRONT_PAGE_DESC = "A Front End Web Developer. I work to shape the future."
 
