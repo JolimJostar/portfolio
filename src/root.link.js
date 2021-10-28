@@ -5,7 +5,6 @@ export const FIRST_NAME = 'Yan';
 export const LAST_NAME = 'Kochkin';
 export const ADDRESS = 'Russia, Moscow'
 export const EMAIL_ID = 'yankochkinv@gmail.com';
-export const TWITTER_ID = 'Vk_javiya';
 export const FRONT_PAGE_NAME = 'Yan Kochkin';
 export const FRONT_PAGE_DESC = "A Front End Web Developer. I work to shape the future."
 

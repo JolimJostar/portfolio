@@ -1,37 +1,34 @@
 const workHistory = [
     {
-        companyName : 'WeCommit',
-        role: 'SDE Intern',
-        duration: "July'21 – Oct'21",
+        companyName : 'Hora Trans Sport',
+        role: 'Junior Web Developer',
+        duration: "Oct 2019 – Aug 2020",
         workDes: [
-            'Build SocicalSpace B2B product and improved 3% performance by refactoring database design and modified API end - points.',
-            'Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server.',
+            'Recreated figma desing using plain html and css',
+            'Made animation for elements using plain JavaScript',
         ],
-        exposer: ["React", "Redux Saga ", "NodeJs", "ExpressJs", "MongoDB", "Heroku", "Twitter API’s", "LinkedIn API"] ,
-        link: 'https://wecommit.in/',
+        exposer: ["Vue","JavaScript",  "HTML5", "CSS", "BitBucket"] ,
+        link: 'https://horausa.com/en/',
     },
     {
-        companyName: 'EnR Consultancy',
-        role: 'SDE Intern',
-        duration: "Mar'21 – Apr'21",
-        workDes: [
-            'Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.',
-            'Designed and developed REST APIs to increase user interaction on the server.',
-        ],
-        exposer: ["React ", "NodeJs", "MongoDB" , "ContextAPI"],
-        link: 'https://engagenreap.com/',
+        companyName: 'Web Wedding Fashion',
+        role: 'Front end web developer',
+        duration: "July 2021 – Still in development",
+        exposer: ["HTML5", "CSS", "GIT" , "Bootstrap", ],
     },
     {
-        companyName: "GSSOC'21",
-        role: 'Student Mentor',
-        duration: "Feb'21 – Apr'21",
+        companyName : 'Personal project',
+        role: 'FRont end Web Developer',
+        duration: "Oct 2021 – Oct 2021",
         workDes: [
-            'Mentored 100+ student with their first pull request in open source',
-            'Maintained code base of girls script official & Kurroku project',
+            'Used Rapid api to create google clone',
+            'Styled everything using Tailwind css',
+            'Got familiar with Github pages to use as free server'
         ],
-        exposer: ["React ", "NodeJs", "MongoDB", "ExpressJS"],
-        link: 'https://gssoc.girlscript.tech/',
+        exposer: ["React.js","JavaScript",  "HTML5", "CSS", "Git", "Github pages", "Tailwind css"] ,
+        link: 'https://jolimjostar.github.io/google-rip/',
     },
+    
 ];
 
 export default workHistory;
