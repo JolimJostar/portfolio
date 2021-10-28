@@ -1,6 +1,6 @@
 export const RESUME_PATH = 'https://drive.google.com/file/d/11mhd52rfA17Qn8hGFw5TyOSahCRDg84z/view?usp=sharing';
 export const GITHUB_USERNAME = 'JolimJostar';
-export const LINKEDIN_USERNAME = 'vivekkumarjaviya';
+export const LINKEDIN_USERNAME = 'yan-kochkin';
 export const FIRST_NAME = 'Yan';
 export const LAST_NAME = 'Kochkin';
 export const ADDRESS = 'Russia, Moscow'

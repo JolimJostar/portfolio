@@ -1,5 +1,5 @@
 import React from 'react';
-import { RESUME_PATH } from '../root.link';
+/*import { RESUME_PATH } from '../root.link';*/
 
 const Header = () => {
   return (
@@ -26,11 +26,11 @@ const Header = () => {
           </a>
         </li>
         
-        <li>
+        {/*<li>
           <a href={RESUME_PATH} target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Resume
           </a>
-        </li>
+        </li>*/}
       </ul>
     </nav>
   );
